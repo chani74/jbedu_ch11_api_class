@@ -73,7 +73,7 @@ public class CalendarExample {
 		int lotto4 = random.nextInt(45)+1;
 		System.out.println("lotto4 = "+lotto4);
 		double lotto5 = random.nextDouble(); // 0~1
-		System.out.println("lotto5 = "+lotto5);
+		System.out.println("lotto5 = "+lotto5); 
 		
 	}
 
